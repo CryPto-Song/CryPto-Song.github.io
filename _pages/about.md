@@ -1,4 +1,3 @@
-
 ---
 permalink: /
 title: "About me"
@@ -8,8 +7,6 @@ redirect_from:
   - /about/
   - /about.html
 ---
-
-# About me
 
 I am a fifth year Ph.D. student at Carnegie Mellon University (2017-Present), fortunately advised by Prof. [Vipul Goyal](https://www.cs.cmu.edu/~goyal/). My research interest is theoretic cryptography and its application in the real world, especially the efficient multi-party computation. 
 
