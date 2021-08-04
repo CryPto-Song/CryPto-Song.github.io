@@ -19,6 +19,9 @@ main:
   - title: "Fellowships"
     url: /#fellowships
     
+  - title: "CV"
+    url: /files/SYF-CV.pdf
+    
   #- title: "Portfolio"
   #  url: /portfolio/
         
