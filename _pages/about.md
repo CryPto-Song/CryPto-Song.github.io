@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "About me"
+title: "Biography"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -8,15 +8,23 @@ redirect_from:
   - /about.html
 ---
 
-I am a fifth year Ph.D. student at Carnegie Mellon University (2017-Present), fortunately advised by Prof. [Vipul Goyal](https://www.cs.cmu.edu/~goyal/). My research interest is theoretic cryptography and its application in the real world, especially the efficient multi-party computation. 
+I am a fifth year Ph.D. student at Carnegie Mellon University (2017 - Present), fortunately advised by Prof. [Vipul Goyal](https://www.cs.cmu.edu/~goyal/). My research interest is theoretic cryptography and its application in the real world, especially the efficient multi-party computation. 
 
 This summer, I am an intern at NTT Research, Sunnyvale and work with Prof. [Vipul Goyal](https://www.cs.cmu.edu/~goyal/) on the communication-efficient multi-party computation.
 
 In Summer 2020, I was an intern in the AI Research team at J.P. Morgan, New York and worked with [Antigoni Polychroniadou](https://antigonip.github.io) on the communication-efficient multi-party computation. 
 
-I received my bachelor's degree in Yao Class at Tsinghua University (2013-2017). During my undergraduate, I visited Aarhus University in Spring 2016 and worked with [Claudio Orlandi](https://users-cs.au.dk/orlandi/) on order revealing encryption.
+I received my bachelor's degree in Yao Class at Tsinghua University (2013 - 2017). During my undergraduate, I visited Aarhus University in Spring 2016 and worked with [Claudio Orlandi](https://users-cs.au.dk/orlandi/) on order revealing encryption.
 
-<h2 id="publications"> Publicationss</h2>
+<h2 id="education"> Education</h2>
+
+- Ph.D. of Computer Science   
+  Carnegie Mellon University, School of Computer Science (2017 - present)
+  
+- Bachelor of Engineering, Computer Science   
+  Tsinghua University, IIIS (2013 - 2017)
+
+<h2 id="publications"> Publications</h2>
 
 - *Constant-overhead Unconditional Secure Multiparty Computation over Binary Fields*   
   Antigoni Polychroniadou, **Yifan Song**   
@@ -65,9 +73,19 @@ I received my bachelor's degree in Yao Class at Tsinghua University (2013-2017).
 
 <h2 id="teaching"> Teaching</h2>
 
-TA for [15-503/15-827 Introduction to Cryptography, Fall 2018](https://www.cs.cmu.edu/~goyal/f18/15503.html)
+- TA for [15-503/15-827 Introduction to Cryptography, Fall 2018](https://www.cs.cmu.edu/~goyal/f18/15503.html)
 
-TA for [15-356/15-856 Introduction to Cryptography, Fall 2019](http://www.cs.cmu.edu/~goyal/f19/15356/)
+- TA for [15-356/15-856 Introduction to Cryptography, Fall 2019](http://www.cs.cmu.edu/~goyal/f19/15356/)
+
+<h2 id="experience"> Experience</h2>
+
+- Visiting Scholar, Aarhus University (01/2016 - 06/2016)
+- Research Intern, J.P. Morgan (06/2020 - 08/2020)
+- Research Intern, NTT Research (05/2021 - Present)
+
+<h2 id="reviewing"> Conference Reviewing</h2>
+
+CRYPTO (2021), ICALP (2021), ITC (2021), STOC (2021), Eurocrypt (2020), TCC (2019)
 
 <h2 id="fellowships"> Fellowships</h2>
 
