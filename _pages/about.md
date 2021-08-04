@@ -64,3 +64,16 @@ I received my bachelor's degree in Yao Class at Tsinghua University (2013-2017).
   IMACC 2017   
   [Eprint](https://eprint.iacr.org/2016/972)
 
+# Teaching
+
+TA for [15-503/15-827 Introduction to Cryptography, Fall 2018](https://www.cs.cmu.edu/~goyal/f18/15503.html)
+
+TA for [15-356/15-856 Introduction to Cryptography, Fall 2019](http://www.cs.cmu.edu/~goyal/f19/15356/)
+
+# Fellowships
+
+2019 - 2020 Cylab Presidential Fellowship
+
+2021 - 2022 Cylab Presidential Fellowship
+
+
