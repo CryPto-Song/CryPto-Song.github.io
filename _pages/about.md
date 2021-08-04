@@ -16,7 +16,7 @@ In Summer 2020, I was an intern in the AI Research team at J.P. Morgan, New York
 
 I received my bachelor's degree in Yao Class at Tsinghua University (2013-2017). During my undergraduate, I visited Aarhus University in Spring 2016 and worked with [Claudio Orlandi](https://users-cs.au.dk/orlandi/) on order revealing encryption.
 
-<h2 id="publications"> Publications</h2>
+<h2 id="publications"> Publicationss</h2>
 
 - *Constant-overhead Unconditional Secure Multiparty Computation over Binary Fields*   
   Antigoni Polychroniadou, **Yifan Song**   
