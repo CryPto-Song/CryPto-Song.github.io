@@ -16,8 +16,7 @@ In Summer 2020, I was an intern in the AI Research team at J.P. Morgan, New York
 
 I received my bachelor's degree in Yao Class at Tsinghua University (2013-2017). During my undergraduate, I visited Aarhus University in Spring 2016 and worked with [Claudio Orlandi](https://users-cs.au.dk/orlandi/) on order revealing encryption.
 
-
-# Publications
+<h2 id="publications"> Publications</h2>
 
 - *Constant-overhead Unconditional Secure Multiparty Computation over Binary Fields*   
   Antigoni Polychroniadou, **Yifan Song**   
@@ -64,13 +63,13 @@ I received my bachelor's degree in Yao Class at Tsinghua University (2013-2017).
   IMACC 2017   
   [Eprint](https://eprint.iacr.org/2016/972)
 
-# Teaching
+<h2 id="teaching"> Teaching</h2>
 
 TA for [15-503/15-827 Introduction to Cryptography, Fall 2018](https://www.cs.cmu.edu/~goyal/f18/15503.html)
 
 TA for [15-356/15-856 Introduction to Cryptography, Fall 2019](http://www.cs.cmu.edu/~goyal/f19/15356/)
 
-# Fellowships
+<h2 id="fellowships"> Fellowships</h2>
 
 2019 - 2020 Cylab Presidential Fellowship
 
