@@ -26,6 +26,31 @@ I received my bachelor's degree in Yao Class at Tsinghua University (2013 - 2017
 
 <h2 id="publications"> Publications</h2>
 
+Authors are Listed in Alphabetical Order
+
+**2022:**
+
+- *Storing and Retrieving Secrets on a Blockchain*   
+  Vipul Goyal, Abhiram Kothapalli, Elisaweta Masserova, Bryan Parno, **Yifan Song**   
+  PKC 2022   
+  [Eprint](https://eprint.iacr.org/2020/504)
+
+- *Private Circuits with Quasilinear Randomness*   
+  Vipul Goyal, Yuval Ishai, **Yifan Song**   
+  Eurocrypt 2022   
+  [Eprint](https://eprint.iacr.org/2022/250)
+
+**2021:**
+
+- *ACCO: Algebraic Computation with Comparison*   
+  Xiaoqi Duan, Vipul Goyal, Hanjun Li, Rafail Ostrovsky, Antigoni Polychroniadou, **Yifan Song**   
+  ACM Cloud Computing Security Workshop 2021 (CCSW 2021), accepted talk in Crypto 2020 PPML
+
+- *Blockchains Enable Non-Interactive MPC*   
+  Vipul Goyal, Elisaweta Masserova, Bryan Parno, **Yifan Song**   
+  TCC 2021   
+  [Eprint](https://eprint.iacr.org/2021/1233)
+
 - *Constant-overhead Unconditional Secure Multiparty Computation over Binary Fields*   
   Antigoni Polychroniadou, **Yifan Song**   
   Eurocrypt 2021   
@@ -45,6 +70,8 @@ I received my bachelor's degree in Yao Class at Tsinghua University (2013 - 2017
   Vipul Goyal, Antigoni Polychroniadou, **Yifan Song**   
   Crypto 2021   
   [Eprint](https://eprint.iacr.org/2021/834)
+  
+**2020:**
 
 - *Guaranteed Output Delivery Comes Free in Honest-Majority MPC*   
   Vipul Goyal, **Yifan Song**, Chenzhi Zhu   
@@ -56,6 +83,8 @@ I received my bachelor's degree in Yao Class at Tsinghua University (2013 - 2017
   Merged with the Crypto 2020 paper above   
   [Eprint](https://eprint.iacr.org/2020/134)
   
+**2019:**
+  
 - *Correlated-Source Extractors and Cryptography with Correlated Random Tapes*   
   Vipul Goyal, **Yifan Song**   
   Eurocrypt 2019   
@@ -65,6 +94,8 @@ I received my bachelor's degree in Yao Class at Tsinghua University (2013 - 2017
   Vipul Goyal, Yanyi Liu, **Yifan Song**   
   Crypto 2019   
   [Eprint](https://eprint.iacr.org/2019/646)
+
+**2017:**
 
 - *Revealing Encryption for Partial Ordering*   
   Helene Haagh, Yue Ji, Chenxing Li, Claudio Orlandi, **Yifan Song**   
