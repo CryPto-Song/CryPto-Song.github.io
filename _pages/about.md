@@ -30,6 +30,16 @@ Authors are Listed in Alphabetical Order
 
 **2022:**
 
+- *Sharing Transformation and Dishonest Majority MPC with Packed Secret Sharing*   
+  Vipul Goyal, Antigoni Polychroniadou, **Yifan Song**   
+  Crypto 2022   
+  [Eprint](https://eprint.iacr.org/2022/831)
+  
+- *Tight Bounds on the Randomness Complexity of Secure Multiparty Computation*   
+  Vipul Goyal, Yuval Ishai, **Yifan Song**   
+  Crypto 2022   
+  [Eprint](https://eprint.iacr.org/2022/799)
+
 - *Storing and Retrieving Secrets on a Blockchain*   
   Vipul Goyal, Abhiram Kothapalli, Elisaweta Masserova, Bryan Parno, **Yifan Song**   
   PKC 2022   
@@ -51,11 +61,6 @@ Authors are Listed in Alphabetical Order
   TCC 2021   
   [Eprint](https://eprint.iacr.org/2021/1233)
 
-- *Constant-overhead Unconditional Secure Multiparty Computation over Binary Fields*   
-  Antigoni Polychroniadou, **Yifan Song**   
-  Eurocrypt 2021   
-  [Eprint](https://eprint.iacr.org/2020/1412)
-
 - *Traceable Secret Sharing*  
   Vipul Goyal, **Yifan Song**, Akshayaram Srinivasan   
   Crypto 2021   
@@ -70,6 +75,11 @@ Authors are Listed in Alphabetical Order
   Vipul Goyal, Antigoni Polychroniadou, **Yifan Song**   
   Crypto 2021   
   [Eprint](https://eprint.iacr.org/2021/834)
+  
+- *Constant-overhead Unconditional Secure Multiparty Computation over Binary Fields*   
+  Antigoni Polychroniadou, **Yifan Song**   
+  Eurocrypt 2021   
+  [Eprint](https://eprint.iacr.org/2020/1412)
   
 **2020:**
 
@@ -110,13 +120,13 @@ Authors are Listed in Alphabetical Order
 
 <h2 id="experience"> Experience</h2>
 
-- Visiting Scholar, Aarhus University (01/2016 - 06/2016)
-- Research Intern, J.P. Morgan (06/2020 - 08/2020)
-- Research Intern, NTT Research (05/2021 - Present)
+- Research Intern, NTT Research (05/2021 - 08/2021)   
+- Research Intern, J.P. Morgan (06/2020 - 08/2020)   
+- Visiting Scholar, Aarhus University (01/2016 - 06/2016)   
 
 <h2 id="reviewing"> Conference Reviewing</h2>
 
-CRYPTO (2021), ICALP (2021), ITC (2021), STOC (2021), Eurocrypt (2020), TCC (2019)
+CRYPTO (2022), CRYPTO (2021), ICALP (2021), ITC (2021), STOC (2021), Eurocrypt (2020), TCC (2019)
 
 <h2 id="fellowships"> Fellowships</h2>
 
