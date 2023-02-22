@@ -13,7 +13,7 @@ main:
   - title: "Experience"
     url: /#experience
     
-  - title: "Conference Reviewing"
+  - title: "Program Committee"
     url: /#reviewing
     
   - title: "Fellowships"
@@ -21,6 +21,9 @@ main:
     
   - title: "CV"
     url: /files/SYF-CV.pdf
+    
+  - title: "Thesis"
+    url: /files/SYF-Thesis.pdf
     
   #- title: "Portfolio"
   #  url: /portfolio/
