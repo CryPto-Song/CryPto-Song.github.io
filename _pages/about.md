@@ -8,6 +8,11 @@ redirect_from:
   - /about.html
 ---
 
+I am an Assistant Professor at the [Institute for Interdisciplinary Information Sciences(IIIS) at Tsinghua University](https://iiis.tsinghua.edu.cn/en/). Before joining Tsinghua, I received my Ph.D. degree from Carnegie Mellon University (2017 - 2022), fortunately advised by Prof. [Vipul Goyal](https://www.cs.cmu.edu/~goyal/). I received my bachelor's degree in Yao Class at Tsinghua University (2013 - 2017).
+
+My research interest is theoretic cryptography and its application in the real world, especially the efficient multi-party computation. 
+
+<div style="display:none">
 I am a fifth year Ph.D. student at Carnegie Mellon University (2017 - Present), fortunately advised by Prof. [Vipul Goyal](https://www.cs.cmu.edu/~goyal/). My research interest is theoretic cryptography and its application in the real world, especially the efficient multi-party computation. 
 
 This summer, I am an intern at NTT Research, Sunnyvale and work with Prof. [Vipul Goyal](https://www.cs.cmu.edu/~goyal/) on the communication-efficient multi-party computation.
@@ -15,11 +20,13 @@ This summer, I am an intern at NTT Research, Sunnyvale and work with Prof. [Vipu
 In Summer 2020, I was an intern in the AI Research team at J.P. Morgan, New York and worked with [Antigoni Polychroniadou](https://antigonip.github.io) on the communication-efficient multi-party computation. 
 
 I received my bachelor's degree in Yao Class at Tsinghua University (2013 - 2017). During my undergraduate, I visited Aarhus University in Spring 2016 and worked with [Claudio Orlandi](https://users-cs.au.dk/orlandi/) on order revealing encryption.
-
+</div>
+  
+  
 <h2 id="education"> Education</h2>
 
 - Ph.D. of Computer Science   
-  Carnegie Mellon University, School of Computer Science (2017 - present)
+  Carnegie Mellon University, School of Computer Science (2017 - 2022)
   
 - Bachelor of Engineering, Computer Science   
   Tsinghua University, IIIS (2013 - 2017)
@@ -28,16 +35,27 @@ I received my bachelor's degree in Yao Class at Tsinghua University (2013 - 2017
 
 Authors are Listed in Alphabetical Order
 
+**2023:**
+
+- *SuperPack: Dishonest Majority MPC with Constant Online Communication*   
+  Daniel Escudero, Vipul Goyal, Antigoni Polychroniadou, **Yifan Song**, Chenkai Weng   
+  EUROCRYPT 2023
+
 **2022:**
+
+- *TurboPack: Honest Majority MPC with Constant Online Communication*   
+  Daniel Escudero, Vipul Goyal, Antigoni Polychroniadou, **Yifan Song**   
+  CCS 2022   
+  [Eprint](https://eprint.iacr.org/2022/1316)   
 
 - *Sharing Transformation and Dishonest Majority MPC with Packed Secret Sharing*   
   Vipul Goyal, Antigoni Polychroniadou, **Yifan Song**   
-  Crypto 2022   
+  CRYPTO 2022   
   [Eprint](https://eprint.iacr.org/2022/831)
   
 - *Tight Bounds on the Randomness Complexity of Secure Multiparty Computation*   
   Vipul Goyal, Yuval Ishai, **Yifan Song**   
-  Crypto 2022   
+  CRYPTO 2022   
   [Eprint](https://eprint.iacr.org/2022/799)
 
 - *Storing and Retrieving Secrets on a Blockchain*   
@@ -47,7 +65,7 @@ Authors are Listed in Alphabetical Order
 
 - *Private Circuits with Quasilinear Randomness*   
   Vipul Goyal, Yuval Ishai, **Yifan Song**   
-  Eurocrypt 2022   
+  EUROCRYPT 2022   
   [Eprint](https://eprint.iacr.org/2022/250)
 
 **2021:**
@@ -63,47 +81,47 @@ Authors are Listed in Alphabetical Order
 
 - *Traceable Secret Sharing*  
   Vipul Goyal, **Yifan Song**, Akshayaram Srinivasan   
-  Crypto 2021   
+  CRYPTO 2021   
   [Eprint](https://eprint.iacr.org/2021/871)
   
 - *ATLAS: Efficient and Scalable MPC in the Honest Majority Setting*   
   Vipul Goyal, Hanjun Li, Rafail Ostrovsky, Antigoni Polychroniadou, **Yifan Song**   
-  Crypto 2021   
+  CRYPTO 2021   
   [Eprint](https://eprint.iacr.org/2021/833)
   
 - *Unconditional Communication-Efficient MPC via Hall's Marriage Theorem*   
   Vipul Goyal, Antigoni Polychroniadou, **Yifan Song**   
-  Crypto 2021   
+  CRYPTO 2021   
   [Eprint](https://eprint.iacr.org/2021/834)
   
 - *Constant-overhead Unconditional Secure Multiparty Computation over Binary Fields*   
   Antigoni Polychroniadou, **Yifan Song**   
-  Eurocrypt 2021   
+  EUROCRYPT 2021   
   [Eprint](https://eprint.iacr.org/2020/1412)
   
 **2020:**
 
 - *Guaranteed Output Delivery Comes Free in Honest-Majority MPC*   
   Vipul Goyal, **Yifan Song**, Chenzhi Zhu   
-  Crypto 2020   
+  CRYPTO 2020   
   [Eprint](https://eprint.iacr.org/2020/189)
   
 - *Malicious Security Comes Free in Honest-Majority MPC*   
   Vipul Goyal, **Yifan Song**   
-  Merged with the Crypto 2020 paper above   
+  Merged with the CRYPTO 2020 paper above   
   [Eprint](https://eprint.iacr.org/2020/134)
   
 **2019:**
   
-- *Correlated-Source Extractors and Cryptography with Correlated Random Tapes*   
-  Vipul Goyal, **Yifan Song**   
-  Eurocrypt 2019   
-  [Eprint](https://eprint.iacr.org/2019/240)
-  
 - *Communication-Efficient Unconditional MPC with Guaranteed Output Delivery*   
   Vipul Goyal, Yanyi Liu, **Yifan Song**   
-  Crypto 2019   
+  CRYPTO 2019   
   [Eprint](https://eprint.iacr.org/2019/646)
+  
+- *Correlated-Source Extractors and Cryptography with Correlated Random Tapes*   
+  Vipul Goyal, **Yifan Song**   
+  EUROCRYPT 2019   
+  [Eprint](https://eprint.iacr.org/2019/240)
 
 **2017:**
 
@@ -113,6 +131,8 @@ Authors are Listed in Alphabetical Order
   [Eprint](https://eprint.iacr.org/2016/972)
 
 <h2 id="teaching"> Teaching</h2>
+
+- Secure Multiparty Computation: Theory and Application, Spring 2023
 
 - TA for [15-503/15-827 Introduction to Cryptography, Fall 2018](https://www.cs.cmu.edu/~goyal/f18/15503.html)
 
@@ -124,9 +144,13 @@ Authors are Listed in Alphabetical Order
 - Research Intern, J.P. Morgan (06/2020 - 08/2020)   
 - Visiting Scholar, Aarhus University (01/2016 - 06/2016)   
 
-<h2 id="reviewing"> Conference Reviewing</h2>
+<h2 id="PC"> Program Committee</h2>
 
+EUROCRYPT 2023 
+
+<div style="display:none">
 CRYPTO (2022), CRYPTO (2021), ICALP (2021), ITC (2021), STOC (2021), Eurocrypt (2020), TCC (2019)
+</div>
 
 <h2 id="fellowships"> Fellowships</h2>
 
