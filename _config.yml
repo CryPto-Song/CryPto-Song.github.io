@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Yifan Song"
 title_separator          : "-"
 name                     : &name "Yifan Song"
-description              : &description "Fifth Year Ph.D. Student at Carnegie Mellon University"
+description              : &description "Assistant Processor at IIIS, Tsinghua University"
 url                      : https://CryPto-Song.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "CryPto-Song/CryPto-Song.github.io"
@@ -82,8 +82,8 @@ analytics:
 author:
   name             : "Yifan Song"
   avatar           : "Self.jpeg"
-  bio              : "Fifth Year Ph.D. Student at Carnegie Mellon University, Interested in Theoretic Cryptography"
-  location         : "Pittsburgh, Pennsylvania"
+  bio              : "Assistant Professor at IIIS, Tsinghua, Interested in Theoretic Cryptography"
+  location         : "Beijing, China"
   employer         :
   pubmed           : 
   googlescholar    : 
