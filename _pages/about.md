@@ -12,6 +12,8 @@ I am an Assistant Professor at the [Institute for Interdisciplinary Information 
 
 My research interest is theoretic cryptography and its application in the real world, especially the efficient multi-party computation. 
 
+If you are interested in working with me, you can always reach me by email: yfsong1995 at gmail.com
+
 <div style="display:none">
 I am a fifth year Ph.D. student at Carnegie Mellon University (2017 - Present), fortunately advised by Prof. [Vipul Goyal](https://www.cs.cmu.edu/~goyal/). My research interest is theoretic cryptography and its application in the real world, especially the efficient multi-party computation. 
 
