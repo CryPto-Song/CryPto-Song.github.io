@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am an Assistant Professor at the [Institute for Interdisciplinary Information Sciences(IIIS) at Tsinghua University](https://iiis.tsinghua.edu.cn/en/). Before joining Tsinghua, I received my Ph.D. degree from Carnegie Mellon University (2017 - 2022), fortunately advised by Prof. [Vipul Goyal](https://www.cs.cmu.edu/~goyal/). I received my bachelor's degree in Yao Class at Tsinghua University (2013 - 2017).
+I am an Assistant Professor at the [Institute for Interdisciplinary Information Sciences(IIIS) at Tsinghua University](https://iiis.tsinghua.edu.cn/en/). Before joining Tsinghua, I received my Ph.D. degree from Carnegie Mellon University (2017 - 2022), fortunately advised by Prof. [Vipul Goyal](https://vipulgoyal.org/). I received my bachelor's degree in Yao Class at Tsinghua University (2013 - 2017).
 
 My research interest is theoretic cryptography and its application in the real world, especially the efficient multi-party computation. 
 
@@ -35,13 +35,41 @@ I received my bachelor's degree in Yao Class at Tsinghua University (2013 - 2017
 
 <h2 id="publications"> Publications</h2>
 
-Authors are Listed in Alphabetical Order
+**2024:**
+- *Multi-Verifier Zero-Knowledge Proofs for Any Constant Fraction of Corrupted Verifiers*   
+  Daniel Escudero, Antigoni Polychroniadou, **Yifan Song**, Chenkai Weng   
+  CCS 2024
+
+- *Linear-Communication Asynchronous Complete Secret Sharing with Optimal Resilience*   
+  Xiaoyu Ji, Junru Li, **Yifan Song**   
+  CRYPTO 2024   
+  [Eprint](https://eprint.iacr.org/2024/245)
+
+- *Towards Achieving Asynchronous MPC with Linear Communication and Optimal Resilience*   
+  Vipul Goyal, Chen-Da Liu-Zhang, **Yifan Song**   
+  CRYPTO 2024   
+  [Eprint](https://eprint.iacr.org/2024/243)
+
+- *Leakage-Tolerant Circuits*   
+  Yuval Ishai, **Yifan Song**   
+  EUROCRYPT 2024   
+  [Eprint](https://eprint.iacr.org/2024/332)
+
+- *GAuV: A Graph-Based Automated Verification Framework for Perfect Semi-Honest Security of Multiparty Computation Protocols*   
+  Xingyu Xie, Yifei Li, Wei Zhang, Tuowei Wang, Shizhen Xu, Jun Zhu, **Yifan Song**   
+  S&P 2024
 
 **2023:**
 
+- *Efficient 3PC for Binary Circuits with Application to Maliciously-Secure DNN Inference*   
+  Yun Li, Yufei Duan, Zhicong Huang, Cheng Hong, Chao Zhang, **Yifan Song**   
+  USENIX Security 2023   
+  [Eprint](https://eprint.iacr.org/2023/909)
+
 - *SuperPack: Dishonest Majority MPC with Constant Online Communication*   
   Daniel Escudero, Vipul Goyal, Antigoni Polychroniadou, **Yifan Song**, Chenkai Weng   
-  EUROCRYPT 2023
+  EUROCRYPT 2023   
+  [Eprint](https://eprint.iacr.org/2023/307)
 
 **2022:**
 
@@ -134,7 +162,9 @@ Authors are Listed in Alphabetical Order
 
 <h2 id="teaching"> Teaching</h2>
 
-- Secure Multiparty Computation: Theory and Application, Spring 2023
+- Cryptographic Protocols: Zero-Knowledge Proofs and MPC, Fall 2023
+
+- Secure Multiparty Computation: Theory and Application, Spring 2023, 2024
 
 - TA for [15-503/15-827 Introduction to Cryptography, Fall 2018](https://www.cs.cmu.edu/~goyal/f18/15503.html)
 
@@ -148,7 +178,7 @@ Authors are Listed in Alphabetical Order
 
 <h2 id="PC"> Program Committee</h2>
 
-EUROCRYPT 2023 
+EUROCRYPT 2023, PKC 2024, ASIACRYPT 2024 
 
 <div style="display:none">
 CRYPTO (2022), CRYPTO (2021), ICALP (2021), ITC (2021), STOC (2021), Eurocrypt (2020), TCC (2019)
