@@ -35,10 +35,42 @@ I received my bachelor's degree in Yao Class at Tsinghua University (2013 - 2017
 
 <h2 id="publications"> Publications</h2>
 
+**2025:**
+- *Protecting Computations Against Continuous Bounded-Communication Leakage*   
+  Yuval Ishai, **Yifan Song**   
+  STOC 2025   
+  [Eprint](https://eprint.iacr.org/2025/447)
+  
+- *Honest Majority MPC with \tilde{O}(|C|) Communication in Minicrypt*   
+  **Yifan Song**, Xiaxi Ye   
+  EUROCRYPT 2025   
+  [Eprint](https://eprint.iacr.org/2025/283)
+
 **2024:**
-- *Multi-Verifier Zero-Knowledge Proofs for Any Constant Fraction of Corrupted Verifiers*   
+- *Dishonest Majority Constant-Round MPC with Linear Communication from DDH*   
+  Vipul Goyal, Junru Li, Ankit Kumar Misra, Rafail Ostrovsky, **Yifan Song**, Chenkai Weng   
+  ASIACRYPT 2024   
+  [Eprint](https://eprint.iacr.org/2024/1466)
+  
+- *Perfectly-Secure Multiparty Computation with Linear Communication Complexity over Any Modulus*   
+  Daniel Escudero, **Yifan Song**, Wenhao Wang   
+  ASIACRYPT 2024   
+  [Eprint](https://eprint.iacr.org/2024/370)
+  
+- *Perfectly-Secure MPC with Constant Online Communication Complexity*   
+  **Yifan Song**, Xiaxi Ye   
+  TCC 2024   
+  [Eprint](https://eprint.iacr.org/2024/242)
+
+- *Sublinear Distributed Product Checks on Replicated Secret-Shared Data over Z2k Without Ring Extensions*   
+  Yun Li, Daniel Escudero, Yufei Duan, Zhicong Huang, Cheng Hong, Chao Zhang, **Yifan Song**   
+  CCS 2024   
+  [Eprint](https://eprint.iacr.org/2024/700)
+
+- *Dishonest Majority Multi-Verifier Zero-Knowledge Proofs for Any Constant Fraction of Corrupted Verifiers*   
   Daniel Escudero, Antigoni Polychroniadou, **Yifan Song**, Chenkai Weng   
-  CCS 2024
+  CCS 2024   
+  [Eprint](https://eprint.iacr.org/2024/997)
 
 - *Linear-Communication Asynchronous Complete Secret Sharing with Optimal Resilience*   
   Xiaoyu Ji, Junru Li, **Yifan Song**   
@@ -57,7 +89,8 @@ I received my bachelor's degree in Yao Class at Tsinghua University (2013 - 2017
 
 - *GAuV: A Graph-Based Automated Verification Framework for Perfect Semi-Honest Security of Multiparty Computation Protocols*   
   Xingyu Xie, Yifei Li, Wei Zhang, Tuowei Wang, Shizhen Xu, Jun Zhu, **Yifan Song**   
-  S&P 2024
+  S&P 2024   
+  [Eprint](https://eprint.iacr.org/2024/1078)
 
 **2023:**
 
