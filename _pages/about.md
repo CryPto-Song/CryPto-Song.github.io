@@ -35,7 +35,50 @@ I received my bachelor's degree in Yao Class at Tsinghua University (2013 - 2017
 
 <h2 id="publications"> Publications</h2>
 
+**2026:**
+- *Information-Theoretic Network-Agnostic MPC with Polynomial Communication*   
+  Xiaoyu Ji, Chen-Da Liu-Zhang, Daniel Pöllmann, **Yifan Song**   
+  EUROCRYPT 2026
+
+- *Perfectly Secure Network-Agnostic MPC Comes for Free*   
+  Xiaoyu Ji, Chen-Da Liu-Zhang, **Yifan Song**   
+  EUROCRYPT 2026
+
+- *Upgrading and Optimizing Multi-Party Computation Protocols with Filmy Hardware Enclaves*   
+  Xiang Li, Baiting Jiang, Xiaoyu Fan, Weijie Liu, **Yifan Song**, Mingyu Gao   
+  CHES 2026
+
+- *L for the Price of One: On the Benefits of Using more than t+1 Parties in Threshold Signing*   
+  Daniel Escudero, Yashvanth Kondi, **Yifan Song**, Hernán Vanegas   
+  Financial Cryptography and Data Security 2026   
+  [Eprint](https://eprint.iacr.org/2026/061)
+
 **2025:**
+- *Honest Majority Constant-Round MPC with Linear Communication from One-Way Functions*   
+  Junru Li, **Yifan Song**   
+  TCC 2025   
+  [Eprint](https://eprint.iacr.org/2025/1676)
+
+- *Velox: Scalable Fair Asynchronous MPC from Lightweight Cryptography*   
+  Akhil Bandarupalli, Xiaoyu Ji, Aniket Kate, Chen-Da Liu-Zhang, Daniel Pöllmann, **Yifan Song**   
+  CCS 2025   
+  [Eprint](https://eprint.iacr.org/2025/1630)
+
+- *Computationally Efficient Asynchronous MPC with Linear Communication and Low Additive Overhead*   
+  Akhil Bandarupalli, Xiaoyu Ji, Aniket Kate, Chen-Da Liu-Zhang, **Yifan Song**   
+  CRYPTO 2025   
+  [Eprint](https://eprint.iacr.org/2024/1666)
+
+- *Constant-Round Asynchronous MPC with Optimal Resilience and Linear Communication*   
+  Junru Li, **Yifan Song**   
+  CRYPTO 2025   
+  [Eprint](https://eprint.iacr.org/2025/1032)
+
+- *Towards Building Scalable Constant-Round MPC from Minimal Assumptions via Round Collapsing*   
+  Vipul Goyal, Junru Li, Rafail Ostrovsky, **Yifan Song**   
+  CRYPTO 2025   
+  [Eprint](https://eprint.iacr.org/2025/508)
+
 - *Protecting Computations Against Continuous Bounded-Communication Leakage*   
   Yuval Ishai, **Yifan Song**   
   STOC 2025   
